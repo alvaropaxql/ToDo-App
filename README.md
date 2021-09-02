@@ -6,7 +6,7 @@ Todo list app made both in vanilla JavaScript and React. New todos can be create
 
 - Vanilla JavaScript app:
 <p align="center">
-    <img src="C:\Users\alvar\Documents\Programming practices\ToDo App\to-do-javascript-app\screenshots\2do-list-js.png" alt="Todo List app" width="300"/>
+    <img src="to-do-javascript-app\screenshots\2do-list-js.png" alt="Todo List app" width="300"/>
 </p>
 
 - React app:
