@@ -4,13 +4,10 @@ Todo list app made both in vanilla JavaScript and React. New todos can be create
 
 #### *Screenshots*
 
-- Vanilla JavaScript app:
+- Todo list app:
 <p align="center">
     <img src="to-do-javascript-app\screenshots\2do-list-js.png" alt="Todo List app" width="500"/>
 </p>
-
-- React app:
-    ***work in progress***
 
 
 ---
